@@ -61,4 +61,3 @@ Thanks to the open-source community for providing the tools and libraries that m
 ---
 
 Feel free to customize this README to better fit your project's needs. Happy kernel building!
-# packages_for_build_kernel
